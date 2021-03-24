@@ -11,7 +11,7 @@ Yo! I am Jay Patel, a web developer, from Gujarat and a Weeb. I love Watching An
 </br>
 👷‍♂️ I am a subber of Anime Academy Team who provide Hindi sub anime to the People. </br>
 </br>
-🚅 Traveling, meeting new peoples, watching anime, learning new things and watching anime are my hobbies </br>
+🚅 Traveling, meeting new peoples, learning new things and watching anime are my hobbies </br>
 </br>
 
 
