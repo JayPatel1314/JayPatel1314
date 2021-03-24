@@ -14,6 +14,10 @@ Yo! I am Jay Patel, Age 16 years, a web developer, from Gujarat and a Weeb. I lo
 </br>
 🚅 Traveling, meeting new peoples, learning new things and watching anime are my hobbies </br>
 </br>
+☎️ Contact me here -: </br>
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/TanjiroOP)
+[![Anilist](https://img.shields.io/badge/Anilist-blue.svg?style=for-the-badge&logo=anilist)](https://anilist.co/user/JayPatel1314/)
+<a href="mekartoon.me@gmail.com"><img src="https://img.shields.io/badge/Gmail-blue.svg?style=for-the-badge&logo=gmail"></a>
 
 ### The Projects Which I Loved And I Contributed
 **My Projects**
