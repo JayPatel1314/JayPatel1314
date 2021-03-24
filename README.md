@@ -4,7 +4,7 @@
 Yo! I am Jay Patel, Age 16 years, a web developer, from Gujarat and a Weeb. I love Watching Anime.
 <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
 
-### Something About Me🙃 
+### Something About Me
 
 🎂 Wish me at 13 April </br>
 </br>
