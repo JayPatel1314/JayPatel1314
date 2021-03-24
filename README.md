@@ -5,7 +5,7 @@ Yo! I am Jay Patel, a web developer, from Gujarat and a Weeb. I love Watching An
 
 ### Something About Me🙃 
 
-🎂 Wish me at 13 April
+🎂 Wish me at 13 April </br>
 ✍️ Want to became a Programmer
 👷‍♂️ I am a subber of Anime Academy Team who provide Hindi sub anime to the People.
 🚅
