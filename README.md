@@ -19,7 +19,8 @@ Yo! I am Jay Patel, a web developer, from Gujarat and a Weeb. I love Watching An
 Tanjiro Kamado - By me </br>
 Karma Robot - By Kartoon </br>
 Zenitsu VC Bot - By Me </br>
-Itachi Robot - By Captain Levi 
+Itachi Robot - By Captain Levi </br>
+Ash Ketchum Robot - By Uday Gondaliya
 
 
 
