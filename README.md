@@ -35,6 +35,7 @@ Yo! I am Jay Patel, Age 16 years, a web developer, from Gujarat and a Weeb. I lo
 [Uday Gondaliya](https://github.com/Uday0011) </br>
 
 ## My GitHub Stats❤️
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayPatel1314&layout=compact&theme=radical)](https://github.com/JayPatel1314)
 ![Jay's Github stats](https://github-readme-stats.vercel.app/api?username=JayPatel1314&show_icons=true&theme=tokyonight)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayPatel1314&theme=tokyonight&hide=batchfile">
 
