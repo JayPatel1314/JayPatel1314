@@ -1,5 +1,5 @@
-## 👋 Konichiwa Minna-san >_<. Minna [Jay Patel // Tanjiro Kamado](https://github.com/JayPatel1314)
-> A student wanted to became a programmer
+## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px"> Konichiwa Minna-san >_<. Minna [Jay Patel // Tanjiro Kamado](https://github.com/JayPatel1314)
+> A student wanted to became a programmer 
 
 Yo! I am Jay Patel, a web developer, from Gujarat and a Weeb. I love Watching Anime.
 
