@@ -20,7 +20,7 @@ Yo! I am Jay Patel, a web developer, from Gujarat and a Weeb. I love Watching An
 Tanjiro Kamado - By me </br>
 Zenitsu VC Bot - By Me </br>
 
-*The Projects in which I had Contributed*
+***The Projects in which I had Contributed***
 Itachi Robot - By Captain Levi </br>
 Ash Ketchum Robot - By Uday Gondaliya
 
