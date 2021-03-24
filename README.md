@@ -17,7 +17,7 @@ Yo! I am Jay Patel, Age 16 years, a web developer, from Gujarat and a Weeb. I lo
 ☎️ Contact me here -: </br>
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/TanjiroOP)
 [![Anilist](https://img.shields.io/badge/Anilist-blue.svg?style=for-the-badge&logo=anilist)](https://anilist.co/user/JayPatel1314/)
-<a href="jaypatelxd1314@gmail.com"><img src="https://img.shields.io/badge/Gmail-red.svg?style=for-the-badge&logo=gmail"></a>
+<a href="jaypatelxd1314@gmail.com"><img src="https://img.shields.io/badge/Gmail-white.svg?style=for-the-badge&logo=gmail"></a>
 
 ### The Projects Which I Loved And I Contributed
 **My Projects**
