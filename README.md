@@ -18,14 +18,14 @@ Yo! I am Jay Patel, Age 16 years, a web developer, from Gujarat and a Weeb. I lo
 ### The Projects Which I Loved And I Contributed
 **My Projects**
 
-🤖 Tanjiro Kamado - *a group management bot for personal use* </br>
-🤖 Zenitsu VC Bot - *a vc song bot for personal use* </br>
+🤖 [Tanjiro Kamado](https://t.me/TanjiroKamado_bot) - *a group management bot for personal use* </br>
+🤖 [Zenitsu VC Bot](https://t.me/ZenitsuVCBot) - *a vc song bot for personal use* </br>
 
 **The Projects in which I had Contributed**
 
-🤖 Itachi Robot - By Captain Levi </br>
-🤖 Ash Ketchum Robot - By Uday Gondaliya </br>
-🤖 Karma Robot - By Kartoon </br>
+🤖 [Itachi Robot](https://t.me/Itachirobot/) - By *[Captain Levi](https://github.com/tusharpalx)* </br>
+🤖 [Ash Ketchum Robot](https://t.me/AshKetchumRobot) - By *[Uday Gondaliya](https://github.com/Uday0011)* </br>
+🤖 [Karma Robot](https://t.me/TheKarmaBot) - By *[Kartoon](https://github.com/IAmKartoon)* </br>
 
 #### **❤️Peoples who inspires me❤️**
 [Anil Chauhan](https://github.com/meanii) </br>
