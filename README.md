@@ -14,6 +14,13 @@ Yo! I am Jay Patel, a web developer, from Gujarat and a Weeb. I love Watching An
 🚅 Traveling, meeting new peoples, learning new things and watching anime are my hobbies </br>
 </br>
 
+### The Projects Which I Loved And I Contributed
+Tanjiro Kamado - By me
+Karma Robot - By Kartoon
+Zenitsu VC Bot - By Me
+Itachi Robot - By Captain Levi
+
+
 
 
 
