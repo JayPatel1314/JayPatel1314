@@ -34,5 +34,5 @@ Uday Gondaliya </br>
 
 ## My GitHub Stats❤️
 ![Jay's Github stats](https://github-readme-stats.vercel.app/api?username=JayPatel1314&show_icons=true&theme=tokyonight)
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Dankdel&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dankdel&theme=tokyonight&hide=batchfile">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayPatel1314&theme=tokyonight&hide=batchfile">
 
