@@ -20,6 +20,7 @@ Yo! I am Jay Patel, Age 16 years, a web developer, from Gujarat and a Weeb. I lo
 
 🤖 [Tanjiro Kamado](https://t.me/TanjiroKamado_bot) - *a group management bot for personal use* </br>
 🤖 [Zenitsu VC Bot](https://t.me/ZenitsuVCBot) - *a vc song bot for personal use* </br>
+🤖 [Anime Quote Generator](https://animequotegenerator.jaypatel1314.repl.co/) - *a site use to generate random anime quotes* </br>
 
 **The Projects in which I had Contributed**
 
