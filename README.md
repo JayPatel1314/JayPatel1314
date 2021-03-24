@@ -27,7 +27,12 @@ Yo! I am Jay Patel, Age 16 years, a web developer, from Gujarat and a Weeb. I lo
 🤖 Karma Robot - By Kartoon </br>
 
 #### **The persons who inspires me**
+Anil Chauhan </br>
+Sawada Touryoshi </br>
+Tanny </br>
+Uday Gondaliya </br>
 
-
+## My GitHub Stats❤️
+![Jay's Github stats](https://github-readme-stats.vercel.app/api?username=JayPatel1314&show_icons=true&theme=tokyonight)
 
 
