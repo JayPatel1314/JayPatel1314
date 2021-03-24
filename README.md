@@ -10,7 +10,7 @@ Yo! I am Jay Patel, Age 16 years, a web developer, from Gujarat and a Weeb. I lo
 </br>
 ✍️ Want to became a Programmer </br>
 </br>
-👷‍♂️ I am a subber of Anime Academy Team who provide Hindi sub anime to the People. </br>
+👷‍♂️ I am a subber of [Anime Academy Team](https://t.me/AnimeAcademyTeam/) who provide [Hindi sub anime](https://animeacademy.in/) to the People. </br>
 </br>
 🚅 Traveling, meeting new peoples, learning new things and watching anime are my hobbies </br>
 </br>
