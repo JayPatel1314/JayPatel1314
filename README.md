@@ -28,6 +28,7 @@ Yo! I am Jay Patel, Age 16 years, a web developer, from Gujarat and a Weeb. I lo
 
 **The Projects in which I had Contributed**
 
+<img height="180px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616211954/waving_girl_iivmaj.webp" align="right"/>
 🤖 [Itachi Robot](https://t.me/Itachirobot/) - By *[Captain Levi](https://github.com/tusharpalx)* </br>
 🤖 [Ash Ketchum Robot](https://t.me/AshKetchumRobot) - By *[Uday0011](https://github.com/Uday0011)* </br>
 🤖 [Karma Robot](https://t.me/TheKarmaBot) - By *[Kartoon](https://github.com/IAmKartoon)* </br>
