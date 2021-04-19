@@ -47,12 +47,19 @@ Yo! I am Jay Patel, Age 17 years, a web developer, from Gujarat and a Weeb. I lo
 
 
 ## Anime Which Are Love ❤️
-GREAT TEACHER ONIZUKA </br>
-DEMON SLAYER </br>
-FOOD WARS </br>
-MY HERO ACADEMIA </br>
-BACCANO </br>
-YOUR NAME </br>
-DARLING IN THE FRANXXX
+[GREAT TEACHER ONIZUKA]() </br>
+[DEMON SLAYER]() </br>
+[FOOD WARS]() </br>
+[MY HERO ACADEMIA]() </br>
+[BACCANO]() </br>
+[YOUR NAME]() </br>
+[DARLING IN THE FRANXXX]()
 
 ## ANIME WHICH ARE [HINDI SUBBED](https://animeacademy.in/) BY ME
+
+[Great Teacher Onizuka]()</br>
+[Given anime]() & [Given movie]()</br>
+[SK∞]()</br>
+[Shadows House]()</br>
+[Mars Red]()</br>
+[It's Disgusting To Call This Love]()</br>
