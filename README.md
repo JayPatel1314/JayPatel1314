@@ -51,7 +51,7 @@ Yo! I am Jay Patel, Age 17 years, a web developer, from Gujarat and a Weeb. I lo
 👉 [DEMON SLAYER](https://anilist.co/anime/101922/Kimetsu-no-Yaiba) </br>
 👉 [FOOD WARS](https://myanimelist.net/anime/28171/Shokugeki_no_Souma) </br>
 👉 [MY HERO ACADEMIA](https://anilist.co/anime/21459/Boku-no-Hero-Academia/) </br>
-👉 [BACCANO](https://myanimelist.net/mal_app) </br>
+👉 [BACCANO](https://myanimelist.net/anime/2251/Baccano) </br>
 👉 [YOUR NAME](https://anilist.co/anime/21519/Kimi-no-Na-wa/) </br>
 👉 [DARLING IN THE FRANXXX](https://myanimelist.net/anime/35849/Darling_in_the_FranXX) </br>
 👉 [Full Matel Alchamist Brotherhood](https://anilist.co/anime/5114/Hagane-no-Renkinjutsushi-Fullmetal-Alchemist/)
