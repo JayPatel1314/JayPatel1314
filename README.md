@@ -1,7 +1,7 @@
 ## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px"> Konichiwa Minna-san >_<. Minna [Jay Patel // Tanjiro Kamado](https://github.com/JayPatel1314)
 > A student wanted to became a programmer 
 
-Yo! I am Jay Patel, Age 16 years, a web developer, from Gujarat and a Weeb. I love Watching Anime.
+Yo! I am Jay Patel, Age 17 years, a web developer, from Gujarat and a Weeb. I love Watching Anime.
 <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
 
 ### Something About Me
@@ -45,3 +45,14 @@ Yo! I am Jay Patel, Age 16 years, a web developer, from Gujarat and a Weeb. I lo
 ![Jay's Github stats](https://github-readme-stats.vercel.app/api?username=JayPatel1314&show_icons=true&theme=tokyonight)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JayPatel1314&label=Profile%20Views&color=orange&style=flat-square" alt="TanjiroKamado" /> </p>
 
+
+## Anime Which Are Love ❤️
+GREAT TEACHER ONIZUKA </br>
+DEMON SLAYER </br>
+FOOD WARS </br>
+MY HERO ACADEMIA </br>
+BACCANO </br>
+YOUR NAME </br>
+DARLING IN THE FRANXXX
+
+## ANIME WHICH ARE [HINDI SUBBED](https://animeacademy.in/) BY ME
