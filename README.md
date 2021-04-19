@@ -47,19 +47,23 @@ Yo! I am Jay Patel, Age 17 years, a web developer, from Gujarat and a Weeb. I lo
 
 
 ## Anime Which Are Love ❤️
-[GREAT TEACHER ONIZUKA]() </br>
-[DEMON SLAYER]() </br>
-[FOOD WARS]() </br>
-[MY HERO ACADEMIA]() </br>
-[BACCANO]() </br>
-[YOUR NAME]() </br>
-[DARLING IN THE FRANXXX]()
+👉 [GREAT TEACHER ONIZUKA](https://myanimelist.net/anime/245/Great_Teacher_Onizuka) </br>
+👉 [DEMON SLAYER](https://anilist.co/anime/101922/Kimetsu-no-Yaiba) </br>
+👉 [FOOD WARS](https://myanimelist.net/anime/28171/Shokugeki_no_Souma) </br>
+👉 [MY HERO ACADEMIA](https://anilist.co/anime/21459/Boku-no-Hero-Academia/) </br>
+👉 [BACCANO](https://myanimelist.net/mal_app) </br>
+👉 [YOUR NAME](https://anilist.co/anime/21519/Kimi-no-Na-wa/) </br>
+👉 [DARLING IN THE FRANXXX](https://myanimelist.net/anime/35849/Darling_in_the_FranXX) </br>
+👉 [Full Matel Alchamist Brotherhood](https://anilist.co/anime/5114/Hagane-no-Renkinjutsushi-Fullmetal-Alchemist/)
 
 ## ANIME WHICH ARE [HINDI SUBBED](https://animeacademy.in/) BY ME
 
-[Great Teacher Onizuka]()</br>
-[Given anime]() & [Given movie]()</br>
-[SK∞]()</br>
-[Shadows House]()</br>
-[Mars Red]()</br>
-[It's Disgusting To Call This Love]()</br>
+🙂 [Great Teacher Onizuka](https://animesubbingteam.xyz/tvshows/great-teacher-onizuka-hindi-sub/)</br>
+🙂 [Given anime](https://animeacademy.in/given-hindi-subbed-01-11/) & [Given movie](https://animeacademy.in/given-movie-hindi-subbed-movie/)</br>
+🙂 [SK∞](https://animeacademy.in/sk%e2%88%9e-sk8-the-infinity-hindi-subbed-01-12/)</br>
+🙂 [Shadows House](https://animeacademy.in/shadows-house-hindi-subbed-01-13/)</br>
+🙂 [Mars Red](https://animeacademy.in/mars-red-hindi-subbed-01-13/)</br>
+🙂 [It's Disgusting To Call This Love](https://animeacademy.in/koi-to-yobu-ni-wa-kimochi-warui-hindi-subbed-01/)</br>
+
+
+### THANKS FOR READING ❤️
