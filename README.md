@@ -58,7 +58,7 @@ Yo! I am Jay Patel, Age 17 years, a web developer, from Gujarat and a Weeb. I lo
 
 ## ANIME WHICH ARE [HINDI SUBBED](https://animeacademy.in/) BY ME
 
-🙂 [Great Teacher Onizuka](https://animesubbingteam.xyz/tvshows/great-teacher-onizuka-hindi-sub/)</br>
+🙂 [Great Teacher Onizuka](https://animeacademy.in/great-teacher-onizuka-hindi-subbed-43-43-completed/)</br>
 🙂 [Given anime](https://animeacademy.in/given-hindi-subbed-01-11/) & [Given movie](https://animeacademy.in/given-movie-hindi-subbed-movie/)</br>
 🙂 [SK∞](https://animeacademy.in/sk%e2%88%9e-sk8-the-infinity-hindi-subbed-01-12/)</br>
 🙂 [Shadows House](https://animeacademy.in/shadows-house-hindi-subbed-01-13/)</br>
