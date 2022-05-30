@@ -1,7 +1,7 @@
 ## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px"> Konichiwa Minna-san >_<. Watashiva [Jay Patel](https://github.com/JayPatel1314) Des!!!
 > A student wanted to became a programmer 
 
-Yo! I am Jay Patel, Age 17 years, a web developer, from Gujarat and a Weeb. I love Watching Anime.
+Yo! I am Jay Patel, Age 18 years, a web developer, from Gujarat and a Weeb. I love Watching Anime.
 <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
 
 ### Something About Me
@@ -29,14 +29,12 @@ Yo! I am Jay Patel, Age 17 years, a web developer, from Gujarat and a Weeb. I lo
 
 <img height="180px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616211954/waving_girl_iivmaj.webp" align="right"/>
 
-🤖 [Itachi Robot](https://t.me/Itachirobot/) - By *[Captain Levi](https://github.com/tusharpalx)* </br>
 🤖 [Ash Ketchum Robot](https://t.me/AshKetchumRobot) - By *[Uday0011](https://github.com/Uday0011)* </br>
 🤖 [Karma Robot](https://t.me/TheKarmaBot) - By *[Kartoon](https://github.com/IAmKartoon)* </br>
 
 #### **❤️Peoples who inspires me❤️**
 [Anil Chauhan](https://github.com/meanii) </br>
 [Sawada Tsunayoshi](https://github.com/TsunayoshiSawada) </br>
-[Tanny](https://github.com/AmTanny) </br>
 [Uday Gondaliya](https://github.com/Uday0011) </br>
 
 ## My GitHub Stats❤️
