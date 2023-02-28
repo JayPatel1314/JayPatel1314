@@ -45,22 +45,12 @@ Yo! I am Jay Patel, Age 18 years, a web developer, from Gujarat and a Weeb. I lo
 
 ## Anime Which Are Love ❤️
 👉 [GREAT TEACHER ONIZUKA](https://myanimelist.net/anime/245/Great_Teacher_Onizuka) </br>
-👉 [DEMON SLAYER](https://anilist.co/anime/101922/Kimetsu-no-Yaiba) </br>
+👉 [3-Gatsu No Lion](https://myanimelist.net/anime/31646/3-gatsu_no_Lion) </br>
 👉 [FOOD WARS](https://myanimelist.net/anime/28171/Shokugeki_no_Souma) </br>
-👉 [MY HERO ACADEMIA](https://anilist.co/anime/21459/Boku-no-Hero-Academia/) </br>
+👉 [Lupin The Third: Movie The Castle Of Cagliostro](https://myanimelist.net/anime/1430/Lupin_III__Cagliostro_no_Shiro) </br>
 👉 [BACCANO](https://myanimelist.net/anime/2251/Baccano) </br>
-👉 [YOUR NAME](https://anilist.co/anime/21519/Kimi-no-Na-wa/) </br>
-👉 [DARLING IN THE FRANXXX](https://myanimelist.net/anime/35849/Darling_in_the_FranXX) </br>
-👉 [Full Matel Alchamist Brotherhood](https://anilist.co/anime/5114/Hagane-no-Renkinjutsushi-Fullmetal-Alchemist/)
-
-## ANIME WHICH ARE [HINDI SUBBED](https://animeacademy.in/) BY ME
-
-🙂 [Great Teacher Onizuka](https://animeacademy.in/great-teacher-onizuka-hindi-subbed-43-43-completed/)</br>
-🙂 [Given anime](https://animeacademy.in/given-hindi-subbed-01-11/) & [Given movie](https://animeacademy.in/given-movie-hindi-subbed-movie/)</br>
-🙂 [SK∞](https://animeacademy.in/sk%e2%88%9e-sk8-the-infinity-hindi-subbed-01-12/)</br>
-🙂 [Shadows House](https://animeacademy.in/shadows-house-hindi-subbed-01-13/)</br>
-🙂 [Mars Red](https://animeacademy.in/mars-red-hindi-subbed-01-13/)</br>
-🙂 [It's Disgusting To Call This Love](https://animeacademy.in/koi-to-yobu-ni-wa-kimochi-warui-hindi-subbed-01/)</br>
-
+👉 [Haikyuuu](https://myanimelist.net/anime/20583/Haikyuu?q=haikyuu&cat=anime) </br>
+👉 [Ao Ashi](https://myanimelist.net/anime/49052/Ao_Ashi?q=ao%20ashi&cat=anime) </br>
+👉 [Grand Blue](https://myanimelist.net/anime/37105/Grand_Blue?q=grand%20blue&cat=anime)
 
 ### THANKS FOR READING ❤️
