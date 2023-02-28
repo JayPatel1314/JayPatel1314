@@ -10,32 +10,11 @@ Yo! I am Jay Patel, Age 18 years, a web developer, from Gujarat and a Weeb. I lo
 </br>
 ✍️ Want to became a Programmer </br>
 </br>
-👷‍♂️ I am a subber of [Anime Academy Team](https://t.me/AnimeAcademyTeam/) who provide [Hindi sub anime](https://animeacademy.in/) to the People. </br>
-</br>
 🚅 Traveling, meeting new peoples, learning new things and watching anime are my hobbies </br>
 </br>
 ☎️ Contact me here -: </br>
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/TanjiroOP)
 [![Anilist](https://img.shields.io/badge/Anilist-blue.svg?style=for-the-badge&logo=anilist)](https://anilist.co/user/JayPatel1314/)
 <a href="jaypatelxd1314@gmail.com"><img src="https://img.shields.io/badge/Gmail-black.svg?style=for-the-badge&logo=gmail"></a>
-
-### The Projects Which I Loved And I Contributed
-**My Projects**
-
-🤖 [Tanjiro Kamado](https://t.me/TanjiroKamado_bot) - *a group management bot for personal use* </br>
-🤖 [Anime Quote Generator](https://animequotegenerator.jaypatel1314.repl.co/) - *a site use to generate random anime quotes* </br>
-
-**The Projects in which I had Contributed**
-
-<img height="180px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616211954/waving_girl_iivmaj.webp" align="right"/>
-
-🤖 [Ash Ketchum Robot](https://t.me/AshKetchumRobot) - By *[Uday0011](https://github.com/Uday0011)* </br>
-🤖 [Karma Robot](https://t.me/TheKarmaBot) - By *[Kartoon](https://github.com/IAmKartoon)* </br>
-
-#### **❤️Peoples who inspires me❤️**
-[Anil Chauhan](https://github.com/meanii) </br>
-[Sawada Tsunayoshi](https://github.com/TsunayoshiSawada) </br>
-[Uday Gondaliya](https://github.com/Uday0011) </br>
 
 ## My GitHub Stats❤️
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayPatel1314&layout=compact&theme=radical)](https://github.com/JayPatel1314)
