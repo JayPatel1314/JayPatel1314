@@ -8,7 +8,7 @@ Yo! I am Jay Patel, Age 18 years, a web developer, from Gujarat and a Weeb. I lo
 
 🎂 Wish me at 13 April </br>
 </br>
-✍️ Want to became a Programmer </br>
+✍️ Want to became a Programmer. A Full Stack Developer </br>
 </br>
 🚅 Traveling, meeting new peoples, learning new things and watching anime are my hobbies </br>
 </br>
